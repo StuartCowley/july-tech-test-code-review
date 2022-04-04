@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+# React NASA image search - mock tech-test 🪐
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## About
+
+A mock tech-test as part of Manchester Codes' frontend module - a React application that allows users to search for images based on a query using the NASA images API. 
+
 
 ### `npm start`
 
